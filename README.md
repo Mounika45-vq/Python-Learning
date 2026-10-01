@@ -7,15 +7,31 @@ Python practice and learning exercises completed during my learning journey.
 - Python Basics
 - NumPy
 - Pandas
+- Array Operations
 - Data Cleaning
 - Data Analysis
 - CSV Data Handling
 - Missing Values
-- Data Filtering
+- Boolean Filtering
 - GroupBy and Descriptive Statistics
 - Correlation
 
-## Pandas Assignment
+## NumPy
+
+The repository includes my NumPy practice covering:
+
+- Array creation and operations
+- Data types and type conversion
+- Reshaping arrays
+- View and copy
+- Flatten and ravel
+- Vectorization
+- Broadcasting
+- Array splitting
+- Random number generation
+- Universal functions
+
+## Pandas
 
 The repository includes my Pandas assignment covering:
 
@@ -29,6 +45,7 @@ The repository includes my Pandas assignment covering:
 - Missing values and duplicates
 - Data validation
 
-## File
+## Notebooks
 
-- `Mounika_Parasa_Pandas.ipynb` – Pandas assignment with code, explanations, and outputs.
+- `Mounika_Parasa_NumPy.ipynb` – NumPy practice and concepts
+- `Mounika_Parasa_Pandas.ipynb` – Pandas assignment with code, explanations, and outputs
