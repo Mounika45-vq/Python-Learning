@@ -1,22 +1,25 @@
-# Python-Learning
+# Python Learning 🐍
 
-Python practice exercises and assignments completed as part of my learning journey.
+Welcome to my Python Learning repository!
 
-## Topics Covered
+This repository contains my Python practice exercises, assignments, and hands-on work as I continue improving my programming and data analysis skills.
 
-- Python Basics
-- NumPy Array Operations
-- Pandas Data Analysis
-- CSV Data Handling
-- Data Cleaning and Missing Values
-- Boolean Filtering
-- GroupBy and Descriptive Statistics
-- Correlation
-- Data Validation
+## 🎯 Learning Objectives
 
-## NumPy
+- Strengthen Python programming fundamentals.
+- Practice data analysis using NumPy and Pandas.
+- Learn data visualization using Matplotlib and Seaborn.
+- Improve data cleaning and problem-solving skills.
+- Apply concepts through practical exercises and assignments.
 
-Topics practiced:
+## 📚 Topics Covered
+
+### Python Basics
+- Basic syntax and programming concepts
+- Variables and data types
+- Conditional statements and loops
+
+### NumPy
 - Array creation and operations
 - Data types and type conversion
 - Reshaping arrays
@@ -27,24 +30,49 @@ Topics practiced:
 - Random number generation
 - Universal functions (ufuncs)
 
-## Pandas
-
-Topics practiced:
+### Pandas
+- CSV data handling
 - Boolean filtering
 - Descriptive statistics and GroupBy
 - Correlation analysis
-- CSV handling
 - Data cleaning and missing values
 - Duplicate handling and data validation
 
-## Notebooks
+### Data Visualization — Currently Learning
+- Matplotlib
+- Seaborn
+- Different types of plots and charts
+- Exploring data visualization techniques
+
+## 📓 Notebooks
 
 - `Mounika_Parasa_NumPy.ipynb` — NumPy practice and array operations
 - `Mounika_Parasa_Pandas.ipynb` — Pandas practice and data analysis
 
-## Tools Used
+## 🛠️ Tools & Technologies
 
 - Python
 - Jupyter Notebook
 - NumPy
 - Pandas
+- Matplotlib
+- Seaborn
+- Git & GitHub
+
+## 🌱 Currently Learning & Improving
+
+I am continuously learning and practicing Python, SQL, data analysis, and data visualization. I am also working on improving my technical knowledge through assignments, exercises, and practical projects.
+
+## 🚀 Future Goals
+
+- Practice more Python exercises.
+- Improve data analysis skills.
+- Explore Matplotlib and Seaborn in depth.
+- Work on real-world datasets.
+- Build practical Python and data analysis projects.
+
+## 👩‍💻 Author
+
+**Mounika Parasa**
+
+[GitHub Profile](https://github.com/Mounika45-vq)
